@@ -34,12 +34,12 @@
 ![image](https://user-images.githubusercontent.com/75416674/167452547-d4e065a0-aba2-41a9-aa9c-f1457ec5db15.png)
 
 #ノートアプリ
-*名前：Notes App
+* 名前：Notes App 
 * OS：Android
-*言語：Kotlin
-*機能：メモの追加、編集、削除。 メモを色で並べ替えます。 メモを色、入力した日付で並べ替える
-*アーキテクチャ：クリーンアーキテクチャ
-*使用されるライブラリ：
+* 言語：Kotlin
+* 機能：メモの追加、編集、削除。 メモを色で並べ替えます。 メモを色、入力した日付で並べ替える
+* アーキテクチャ：クリーンアーキテクチャ
+* 使用されるライブラリ：
  // Compose dependencies
     implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0-beta01"
     implementation "androidx.navigation:navigation-compose:2.4.0-alpha09"
